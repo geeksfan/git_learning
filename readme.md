@@ -1,5 +1,2 @@
-#say hello
-Hi,we are learning Git together.
-Have a good time!
-#test
-We are going to record some git commands here.eg add and so on.
+# git_learning
+We are learning git
